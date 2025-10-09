@@ -16,6 +16,6 @@ public class CekKRS25 {
             System.out.println("Silakan cetak KRS dan minta tanda tangan DPA");
         }
         
-        sc.close(); 
+        sc.close();
     }
 }

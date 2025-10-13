@@ -7,7 +7,6 @@ public class nestedUjianSkripisi25 {
 
         String pesan;
 
-
         System.out.print("Apakah mahasiswa sudah bebas kompen? (Ya/Tidak): ");
    
         String bebasKompen = sc.nextLine().trim(); 
@@ -34,7 +33,6 @@ public class nestedUjianSkripisi25 {
         }
         
         System.out.println(pesan);
-
         sc.close();
     }
     

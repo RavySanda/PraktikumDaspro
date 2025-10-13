@@ -13,7 +13,6 @@ public class Tugas1 {
             : "Pembayaran UKT belum lunas\nSilakan lunasi UKT terlebih dahulu";
 
         System.out.println(pesan);
-
         sc.close();
     }
 }

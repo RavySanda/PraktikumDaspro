@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class switchCetakKRS25 {
     public static void main(String[] args) {
 
-
         Scanner sc = new Scanner(System.in);
 
         System.out.println("--- Cetak KRS SIAKAD ---");
@@ -38,7 +37,6 @@ public class switchCetakKRS25 {
             default:
                 System.out.println("Semester tidak valid");
         }
-        
         sc.close();
     }
     

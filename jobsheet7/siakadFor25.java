@@ -2,31 +2,21 @@ package jobsheet7;
 import java.util.Scanner;
 public class siakadFor25 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        double tertinggi = 0;
-        double terendah = 100;
+        Scanner sc =new Scanner(System.in);
 
-        for(int i = 1; i <= 10; i++){
-            System.out.println("MASUKKAN NILAI KE-" + i + ":");
-            double nilai = sc.nextDouble();
+        double nilai, terendah =100, tertinggi =0;
+
+        for (int i =1; i <= 10; i++) {
+            System.out.print("Masukkan nilai mahasiswa ke-" + i + ": ");
+            nilai =sc.nextDouble();
             if (nilai > tertinggi) {
                 tertinggi = nilai;
             }
-            if (nilai < terendah){
+            if (nilai < terendah) {
                 terendah = nilai;
-
             }
-            System.out.println("NILAI TERTINGGI :" +tertinggi);
-            System.out.println("NILAI TERENDAH "+ terendah);
-
-
-
-
-
-
-
+        }
+        System.out.println("Nilai tertinggi:" + tertinggi);
+        System.out.println("Nilai terendah:" + terendah);
     }
 }
-}
-    
-

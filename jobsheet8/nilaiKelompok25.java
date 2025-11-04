@@ -1,3 +1,4 @@
+package jobsheet8;
 import java.util.Scanner;
 public class nilaiKelompok25 {
     public static void main(String[] args) {

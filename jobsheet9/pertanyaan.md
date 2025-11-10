@@ -14,7 +14,6 @@ for (int i = 0; i < 4; i++)
 **Jawaban:**
 Perulangan tersebut menampilkan semua elemen array `bil` dari indeks 0 sampai 3.
 
----
 
 **Pertanyaan 4:**
 Apa yang terjadi jika kondisi diubah menjadi `i <= 4`?

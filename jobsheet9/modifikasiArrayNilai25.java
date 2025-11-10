@@ -15,5 +15,5 @@ public class modifikasiArrayNilai25 {
         System.out.println("Mahasiswa ke-" +i+ " " + status);
 }
 
-    }
+ }
 }

@@ -12,7 +12,6 @@ public class SearchNilai25 {
                 break;
             }
         }
-
        System.out.println();
        System.out.println("Nilai " +key+" ketemu di indeks ke-" +hasil);
        System.out.println();

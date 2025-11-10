@@ -1,5 +1,4 @@
 package jobsheet9;
-
 public class ArrayBilangan25 {
     public static void main(String[] args) {
         

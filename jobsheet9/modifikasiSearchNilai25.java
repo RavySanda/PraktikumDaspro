@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class modifikasiSearchNilai25 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Masukkan banyaknya nilai yang akan diinput: ");
         int n = sc.nextInt();
 

@@ -32,7 +32,6 @@ public class modifikasiArrayRataNilai25 {
             rataTidakLulus = (double) totalTidakLulus / countTidakLulus;
         }
 
-        // Output 
         if (countLulus > 0)
             System.out.println("Rata-rata nilai lulus = " + rataLulus);
         else
